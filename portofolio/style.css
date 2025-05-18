@@ -1,0 +1,194 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+.side-profile {
+    width: 400px;
+    height: 100vh;
+    background-color: rgb(48, 49, 49);
+    position: fixed;
+}
+
+.img-profile {
+    width: 280px;
+    height: 280px;
+    border-radius: 100%;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+}
+
+.my-portofolio {
+    color: white;
+    position: fixed;
+    top: 350px;
+    left: 100px;
+}
+
+.button-profile-container {
+    position: fixed;
+    top: 400px;
+    left: 90px;
+    display: grid;
+}
+
+.button-profile {
+    width: 200px;
+    height: 50px;
+    border-radius: 80px;
+    transition: 0.3s;
+}
+
+.button-profile:hover {
+    background-color: transparent;
+    color: white;
+    transition: 0.3s;
+}
+
+.link-profile {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.link-profile:hover {
+    color: white;
+    transition: 0.3s;
+}
+
+.button-skill {
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 80px;
+    transition: 0.3s;
+}
+
+.button-skill:hover {
+    background-color: transparent;
+    color: white;
+    transition: 0.3s;
+}
+
+.link-skill {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.link-skill:hover {
+    color: white;
+    transition: 0.3s;
+}
+
+.button-project {
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 80px;
+    transition: 0.3s;
+}
+
+.button-project:hover {
+    background-color: transparent;
+    color: white;
+    transition: 0.3s;
+}
+
+.link-project {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.link-project:hover {
+    color: white;
+    transition: 0.3s;
+}
+
+.button-contact {
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 80px;
+    transition: 0.3s;
+}
+
+.button-contact:hover {
+    background-color: transparent;
+    color: white;
+    transition: 0.3s;
+}
+
+.link-contact {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.link-contact:hover {
+    color: white;
+    transition: 0.3s;
+}
+
+.h1-content-halaman-utama {
+    position: absolute;
+    left: 750px;
+    top: 50px;
+}
+
+.flex-box1 {
+    background-color: blueviolet;
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    left: 450px;
+    top: 150px;
+}
+
+.ryan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 150px;
+    font-size: 50px;
+}
+
+.flex-box2 {
+    background-color: cyan;
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    left: 900px;
+    top: 150px;
+}
+
+.love {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.hatsumi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 150px;
+    font-size: 50px;
+}
